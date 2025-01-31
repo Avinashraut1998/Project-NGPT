@@ -1,9 +1,9 @@
-import "./App.css";
-
 function App() {
   return (
     <>
-      <h1>This is an NetFlix-GPT Project</h1>
+      <h1 className="text-3xl text-green-800">
+        This is an NetFlix-GPT Project
+      </h1>
     </>
   );
 }
