@@ -5,8 +5,19 @@
 - create vite@latest
 - configured Tailwind Css
 - Header
+- Routing of app
 - Login Form
 - SignUp from
+- Form Validation
+- useRef Hook
+- Firebase Setup
+- Deploying our app to production
+- Create SignUp user account
+- Impliment Sign In user API
+- Created Redux Store with userSlice
+- Implimented Sign Out
+- Update profile
+- fetch movies from TMDB movies
 
 # Features
 
