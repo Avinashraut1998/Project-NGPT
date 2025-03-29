@@ -16,7 +16,7 @@ const VideoBackGround = ({ movieId }) => {
           "?autoplay=1&mute=1"
         }
         title="YouTube video player"
-        allow=" autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allow=" autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share loop"
       ></iframe>
     </div>
   );

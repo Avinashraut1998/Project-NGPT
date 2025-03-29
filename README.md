@@ -38,6 +38,9 @@
 - Made the browse page amazing with tailwind css
 - UsePopularMovies, useTopratedMovies, useUpcomingMovies, custom hooks
 - fetch movies from TMDB movies
+- GPT serach Page
+- GPT search bar
+- (\*) Multi-language feature in our app
 
 # Features
 
